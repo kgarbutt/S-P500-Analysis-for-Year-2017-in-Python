@@ -1,4 +1,4 @@
-# S-P500-Analysis-for-Year-2017-in-Python
+# S&P500-Analysis-for-Year-2017-in-Python
 S&amp;P500 Analysis for Year 2017 in Python
 
 This analysis is interested in answering how did 9 tech companies perform relative to the S&P500 Index for Year 2017.
